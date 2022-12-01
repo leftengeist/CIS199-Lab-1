@@ -10,12 +10,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Lab1{
+    class Program{
+        static void Main(string[] args){
             Console.WriteLine("Grading ID: N5284");
             Console.WriteLine("Hobbies: Programming and Travel");
             Console.WriteLine("Favorite Book: George Orwell's 1984");
